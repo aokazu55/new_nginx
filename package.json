@@ -1,5 +1,11 @@
 {
   "name": "nginx_test2",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.14.x"
+  }
 }
