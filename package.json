@@ -1,7 +1,7 @@
 {
   "name": "nginx_test2",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
   "engines": {
     "node": "12.14.x"
   }
